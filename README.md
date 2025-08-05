@@ -1,0 +1,2 @@
+# -Workflow-AI-Agents-Role-Matching-Skill-Diagnostics-Outreach-Automation-Personal-Project-
+This repository showcases an exploratory build of intelligent workflow agents designed to optimize the job search process through automation, personalization, and agentic orchestration. Inspired by real-world job targeting challenges, this system leverages AI to analyze job postings, align resume content, and automate communication tasks.
