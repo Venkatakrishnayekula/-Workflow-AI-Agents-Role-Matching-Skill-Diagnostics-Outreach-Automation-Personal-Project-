@@ -1,0 +1,10 @@
+Dear [HIRING_MANAGER_NAME],
+
+I'm excited to apply for the [ROLE_TITLE] position at [COMPANY_NAME]. With experience in building financial-grade microservices, optimizing frontend interfaces, and leading CI/CD pipelines on Azure, I'm confident I can deliver exceptional results aligned with your product goals.
+
+Recently at M&T Bank, I built secure APIs using Spring Boot and OAuth2, deployed via AKS and OpenShift. These improved uptime to 99.98% and reduced latency by 20%.
+
+I'd love to bring that same precision and impact to [COMPANY_NAME].
+
+Sincerely,  
+Venkata Yekula  

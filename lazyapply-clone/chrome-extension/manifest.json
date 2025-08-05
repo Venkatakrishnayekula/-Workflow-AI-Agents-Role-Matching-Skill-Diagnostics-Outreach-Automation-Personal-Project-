@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LazyApply Clone",
+  "version": "1.0",
+  "description": "Auto-fill job applications from a pasted link.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

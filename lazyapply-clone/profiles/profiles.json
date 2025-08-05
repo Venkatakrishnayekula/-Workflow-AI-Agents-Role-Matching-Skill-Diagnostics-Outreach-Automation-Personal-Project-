@@ -1,0 +1,8 @@
+{
+  "active_profile": "frontend_dev",
+  "profiles": [
+    "frontend_dev",
+    "qa_engineer",
+    "data_analyst"
+  ]
+}

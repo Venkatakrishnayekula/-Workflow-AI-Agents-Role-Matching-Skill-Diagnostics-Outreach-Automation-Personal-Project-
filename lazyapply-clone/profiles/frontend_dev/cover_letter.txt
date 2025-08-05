@@ -1,0 +1,11 @@
+Dear [Hiring Manager],
+
+As a Full Stack Engineer with 4 years of experience building scalable, cloud-native web applications, I’ve led front-end development using React.js and Angular while integrating seamlessly with secure Spring Boot microservices on the backend. At M&T Bank, I enhanced critical financial interfaces by optimizing React lifecycles and implementing resilient Azure CI/CD pipelines — cutting load times by 20% and improving system uptime.
+
+Previously at Fusion Software, I built real-time dashboards and workflow tools using Angular and Spring Boot, leveraging Kafka, RabbitMQ, and GraphQL for high-performance, event-driven systems. I bring an agile mindset, a sharp eye for UI/UX, and hands-on experience shipping production code across regulated domains.
+
+I’d be excited to bring this end-to-end ownership and technical precision to your team.
+
+Warm regards,
+Venkata Yekula
+

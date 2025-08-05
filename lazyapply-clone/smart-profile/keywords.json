@@ -1,0 +1,6 @@
+{
+  "backend": ["spring boot", "rest api", "microservices", "oauth", "jwt", "jpa", "azure", "aws"],
+  "frontend": ["react", "angular", "redux", "responsive design", "hooks"],
+  "devops": ["jenkins", "docker", "kubernetes", "terraform", "ci/cd"],
+  "cloud": ["azure devops", "aks", "aws ec2", "cloudwatch"]
+}

@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  margin: 30px;
+  background: #f8f8f8;
+}
+#jobList {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.job-card {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+}

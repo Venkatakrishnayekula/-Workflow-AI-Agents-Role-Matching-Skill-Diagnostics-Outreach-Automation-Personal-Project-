@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  padding: 12px;
+  width: 300px;
+  background: #f9f9f9;
+}
+
+h2 {
+  margin-top: 0;
+  color: #0077cc;
+}
+
+input, button {
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+  font-size: 14px;
+}

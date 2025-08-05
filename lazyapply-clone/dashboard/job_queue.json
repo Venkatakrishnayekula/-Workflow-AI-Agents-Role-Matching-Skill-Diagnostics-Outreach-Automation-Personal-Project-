@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "M&T Bank",
+    "link": "https://example.com/apply/123",
+    "match_score": 82
+  },
+  {
+    "title": "QA Automation Specialist",
+    "company": "Fusion Technologies",
+    "link": "https://example.com/apply/456",
+    "match_score": 74
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "resume_file": "resume.docx",
+  "cover_letter_file": "cover_letter.txt",
+  "voice_mode": true,
+  "match_threshold": 70,
+  "apply_speed": "medium"
+}
